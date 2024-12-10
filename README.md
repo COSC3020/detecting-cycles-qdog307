@@ -28,7 +28,7 @@ This reflects the linear time required to traverse all nodes and edges, making t
 
 ## Sources 
 
-For this I looked at slides 27-32 of lecture 02 adn refrencing the psudeocode. I also looked at the geesk for geeks https://www.geeksforgeeks.org/detect-cycle-in-a-graph/. For the test code I went with the logic of using my own graphs to test the code as it seems more effecient. I asked chatGPT for some basic graph examples and those were presented. 
+For this I looked at slides 27-32 of lecture 02 and refrencing the psudeocode. I also looked at the geesk for geeks https://www.geeksforgeeks.org/detect-cycle-in-a-graph/. For the test code I went with the logic of using my own graphs to test the code as it seems more effecient. I asked chatGPT for some basic graph examples and those were implemented. 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
